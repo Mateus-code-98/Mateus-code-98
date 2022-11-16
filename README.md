@@ -1,4 +1,4 @@
-## Olá, meu nome é Mateus Brasil, sou um desenvolvedor de software e um eterno apaixonado por aprender novas tecnologias!
+## Olá, meu nome é Mateus Brasil, sou um Desenvolvedor de Software e um eterno apaixonado por aprender novas tecnologias!
 
 <div align="center">
   <a href="https://github.com/mateus-code-98">
