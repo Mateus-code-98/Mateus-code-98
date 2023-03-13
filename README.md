@@ -1,4 +1,4 @@
-Olá sou Mateus Brasil dos Santos, um Desenvolvedor Web Full Stack, com Bacharel em Ciências Exatas, me considero 
+Olá me chamo Mateus Brasil dos Santos, sou um Desenvolvedor Web Full Stack, com Bacharel em Ciências Exatas, me considero 
 um estusiasta da área de tecnologia e um “aprendedor“ profissional. Busco uma
 oportunidade em que eu possa viver novas experiências e contribuir para entregar os
 melhores serviços e produtos com a ajuda da tecnologia.
