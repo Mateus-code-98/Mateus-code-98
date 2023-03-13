@@ -1,4 +1,7 @@
-## Olá, meu nome é Mateus Brasil, sou um Desenvolvedor de Software e um eterno apaixonado por aprender novas tecnologias!
+## Olá sou Mateus Brasil dos Santos, um Desenvolvedor Web Full Stack, com Bacharel em Ciências Exatas, me con-
+sidero um estusiasta da área de tecnologia e um “aprendedor“ profissional. Busco uma
+oportunidade em que eu possa viver novas experiências e contribuir para entregar os
+melhores serviços e produtos com a ajuda da tecnologia.
 
 <div align="center">
   <a href="https://github.com/mateus-code-98">
